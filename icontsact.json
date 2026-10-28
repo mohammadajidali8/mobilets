@@ -1,0 +1,45 @@
+{
+    "update_log": [
+        {
+            "version": "1.0.0",
+            "downloadlink": "https://kingts.wapka.fun/"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "ADMIN",
+            "key": "50974ee536572dea5f73ac1d7c62a0e9ef46f939f56c6fdd2ae6f4aaa50e27a7",
+            "expiry": "2030-10-02",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "1436D LEFT",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false
+        },
+        {
+            "name": "PALTU GOLDAR",
+            "key": "2ff7f0c73f4ec9e579d97d7de4194024e5f1d9fe47a6acd77ed1908d88747f36",
+            "expiry": "2026-11-27",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "THE RUNEWAY",
+            "key": "98a2f4b67deac7bdfb69ef7b790c3031d88ff34afbd1bffda50178f0dcd577c7",
+            "expiry": "2026-11-27",
+            "mode": "vip",
+            "color": "text-emerald-600 bg-emerald-50 border-emerald-200",
+            "isExp": false,
+            "st": "31D LEFT"
+        },
+        {
+            "name": "PRAKASH BHARATI",
+            "key": "5759cc2e100c4ff78a4057394a355c6d60b3a651a7bb71ac252281a25341e793",
+            "expiry": "2026-11-28",
+            "mode": "vip"
+        }
+    ]
+}
